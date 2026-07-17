@@ -26,7 +26,7 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR3ec053_000.markers.yaml, hash: 'sha256:e532bea8c731b03dcf7d5d0af95b4b9dd5b735f1fde881f68bd82d0a63bd8c31'}
   - {seq: 1, role: markers, filename: assets/KR3ec053_001.markers.yaml, hash: 'sha256:0f9c35d16691369ce41d7e63e9ec93b0a8c6fbd44e08f9ed9f0da2043cc97714'}
   - {seq: 2, role: markers, filename: assets/KR3ec053_002.markers.yaml, hash: 'sha256:f720dd3f15fcf200c1b629a6d323c9ecbe8df50d82dbf670ccbff9196f10f128'}
-  - {seq: 3, role: markers, filename: assets/KR3ec053_003.markers.yaml, hash: 'sha256:fe99fc0401991cfc7293851ec41d5c17feab2038514fe0b742c9db387282d495'}
+  - {seq: 3, role: markers, filename: assets/KR3ec053_003.markers.yaml, hash: 'sha256:9d43cefa5dbd211804485f6c0c4064f588a2136023a8634514ede39a27d52463'}
   - {seq: 4, role: markers, filename: assets/KR3ec053_004.markers.yaml, hash: 'sha256:59510a576cce130725d078b4bb8b2a4b738d27fc1dc0f6dbbedddf482c15f8f3'}
 table_of_contents:
 - ref:
@@ -1249,7 +1249,7 @@ table_of_contents:
   label: 人尿
   type: section
   level: 2
-hash: sha256:61cd3371358e0613f4f664665a2fed760938de4190a67ac6360f9f76e7e632dd
+hash: sha256:8191d101bdcde60c7e927511e8978bf69505809b5f14399cf12d55bfeec3d60f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
